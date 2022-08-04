@@ -1,1 +1,2 @@
 # addonidx-cp
+## control panel
